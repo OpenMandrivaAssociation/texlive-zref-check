@@ -1,6 +1,6 @@
 Name:		texlive-zref-check
 Version:	63845
-Release:	1
+Release:	2
 Summary:	Flexible cross-references with contextual checks based on zref
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zref-check
