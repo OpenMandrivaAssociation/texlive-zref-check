@@ -3,7 +3,7 @@ Version:	68846
 Release:	1
 Summary:	Flexible cross-references with contextual checks based on zref
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/zref-check
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/zref-check
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zref-check.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/zref-check.doc.r%{version}.tar.xz
