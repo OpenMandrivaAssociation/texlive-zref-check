@@ -1,5 +1,5 @@
 Name:		texlive-zref-check
-Version:	68846
+Version:	72994
 Release:	1
 Summary:	Flexible cross-references with contextual checks based on zref
 Group:		Publishing
